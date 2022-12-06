@@ -1,4 +1,4 @@
-**ASAL SAYILAR
+**ASAL SAYILAR**
 
 Matematik diyince aklımıza hemen sayılar geliyor..
 Bu sayıların içinde bazı eşsiz sayılar vardır.
